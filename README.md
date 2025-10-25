@@ -106,7 +106,7 @@ Excel → Initial data exploration
 
 Overview: Flight summary & operational KPIs ![Airline Dashboard](Images/Dashboard_Overview.png)
 
-Delay’s Cause: Root cause analysis of delays ![Airline Dashboard](Images/Delay_causes.png)
+Delay’s Cause: Root cause analysis of delays ![Airline Dashboard](Images/Delay_Causes.png)
 
 Performance: Carrier & airport-specific insights ![Airline Dashboard](Images/Airport_Performance.png)
 
