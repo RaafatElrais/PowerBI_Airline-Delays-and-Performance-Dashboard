@@ -1,19 +1,22 @@
 # PowerBI_Airline-Delays-and-Performance-Dashboard
-📘 Project Overview
+
+---
+
+### 📘 Project Overview
 
 This Power BI project analyzes airline performance and delay causes across multiple airports and carriers.
 The goal was to uncover patterns in flight operations, identify performance bottlenecks, and suggest actionable strategies to reduce delays and cancellations.
 
 ---
 
-⚠️ Business Challenge
+### ⚠️ Business Challenge
 
 Airlines face frequent operational disruptions due to weather, maintenance, and scheduling issues, leading to high delay percentages and poor customer experience.
 The company lacked a clear, consolidated view of these factors to make data-driven improvements.
 
 ---
 
-💡 Approach
+### 💡 Approach
 
 Cleaned and prepared flight data using Power Query and SQL.
 
@@ -31,7 +34,7 @@ Used KPIs and visuals (bar, line, and pie charts) to make trends instantly under
 
 ---
 
-🖼️ Dashboard Overview
+### 🖼️ Dashboard Overview
 
 Main Insights Across Pages:
 
@@ -59,11 +62,11 @@ NASD Delay – 19.9%
 
 Security Delay – 5.4%
 
-💡 The dashboard uses a simple navigation system with Overview, Delay’s Cause, and Performance pages for quick drill-downs and comparisons.
+### 💡 The dashboard uses a simple navigation system with Overview, Delay’s Cause, and Performance pages for quick drill-downs and comparisons.
 
 ---
 
-📊 Key Insights
+### 📊 Key Insights
 
 Southwest Airlines operates over 378K flights yearly but shows an average arrival delay of 30 minutes.
 
@@ -75,7 +78,7 @@ Chicago O’Hare and Hartsfield-Jackson airports have the highest flight traffic
 
 ---
 
-✅ Recommendations
+### ✅ Recommendations
 
 Optimize scheduling and turnaround times for carriers with recurring late arrivals.
 
@@ -87,7 +90,7 @@ Monitor airport-specific delay patterns through drill-through pages for data-dri
 
 ---
 
-🧰 Tools Used
+### 🧰 Tools Used
 
 Power BI → Visualization & dashboard creation
 
@@ -99,25 +102,22 @@ Excel → Initial data exploration
 
 ---
 
-📺 Dashboard Pages
+### 📺 Dashboard Pages
 
-Overview: Flight summary & operational KPIs ![Airline Dashboard](Image/Dashboard_Overview.png)
+Overview: Flight summary & operational KPIs ![Airline Dashboard](Images/Dashboard_Overview.png)
 
-Delay’s Cause: Root cause analysis of delays ![Airline Dashboard](Image/Delay_causes.png)
+Delay’s Cause: Root cause analysis of delays ![Airline Dashboard](Images/Delay_causes.png)
 
-Performance: Carrier & airport-specific insights ![Airline Dashboard](Image/Airport_Performance.png)
+Performance: Carrier & airport-specific insights ![Airline Dashboard](Images/Airport_Performance.png)
 
 ---
 
-🔗 Interactive Dashboard
+### 🔗 Interactive Dashboard
 
 👉 📊 **Live Dashboard:** [**Click here**](https://app.powerbi.com/reportEmbed?reportId=a2e87ebe-bfc8-4629-8b8a-22c3d0cebe50&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde) 
  [View on NovyPro](https://project.novypro.com/KrENA5)
 
 ---
-
-👤 Author
-
 
 ### 👤 Author
 **Raafat Elrais**  
