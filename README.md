@@ -34,6 +34,15 @@ Used KPIs and visuals (bar, line, and pie charts) to make trends instantly under
 
 ---
 
+### 📺 Dashboard Pages
+
+Overview: Flight summary & operational KPIs ![Airline Dashboard](Images/Dashboard_Overview.png)
+
+Delay’s Cause: Root cause analysis of delays ![Airline Dashboard](Images/Delay_Causes.png)
+
+Performance: Carrier & airport-specific insights ![Airline Dashboard](Images/Airport_Performance.png)
+
+---
 ### 🖼️ Dashboard Overview
 
 Main Insights Across Pages:
@@ -102,19 +111,9 @@ Excel → Initial data exploration
 
 ---
 
-### 📺 Dashboard Pages
-
-Overview: Flight summary & operational KPIs ![Airline Dashboard](Images/Dashboard_Overview.png)
-
-Delay’s Cause: Root cause analysis of delays ![Airline Dashboard](Images/Delay_Causes.png)
-
-Performance: Carrier & airport-specific insights ![Airline Dashboard](Images/Airport_Performance.png)
-
----
-
 ### 🔗 Interactive Dashboard
 
-👉 📊 **Live Dashboard:** [**Click here**](https://app.powerbi.com/reportEmbed?reportId=a2e87ebe-bfc8-4629-8b8a-22c3d0cebe50&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde) 
+👉 📊 **Live Dashboard:** [**Click here**](https://app.powerbi.com/reportEmbed?reportId=a2e87ebe-bfc8-4629-8b8a-22c3d0cebe50&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde) -- 
  [View on NovyPro](https://project.novypro.com/KrENA5)
 
 ---
